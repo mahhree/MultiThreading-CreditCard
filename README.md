@@ -26,10 +26,13 @@ Using Luhn's Algorithm:
      - 8 * 2 = 16 (1 + 6 = 7)
      - 4 * 2 = 8
   
-  2. Now add all single-digit numbers from Step 1. 4 + 4 + 8 + 2 + 3 + 1 + 7 + 8 = 37
+  2. Now add all single-digit numbers from Step 1. 
+     4 + 4 + 8 + 2 + 3 + 1 + 7 + 8 = 37
 
-  3. Add all digits in the odd places from right to left in the card number. 4388576018402626
-     6 + 6 + 0 + 8 + 0 + 7 + 8 + 3 = 38
+  3. Add all digits in the odd places from right to left in the card number. 
+     
+     4388576018402626
+     - 6 + 6 + 0 + 8 + 0 + 7 + 8 + 3 = 38
 
   4. Sum the results from Step 2 and Step 3. 37 + 38 = 75
 
