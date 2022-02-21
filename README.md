@@ -1,8 +1,8 @@
 # MultiThreading-CreditCard
 ****Comparing single threading and multithreading***
 
--Allows the user to input a credit card number to validate.
--The project has both a single threading and multithreading feature in order to compare.  
+- Allows the user to input a credit card number to validate.
+- The project has both a single threading and multithreading feature in order to compare.  
 
 To validate each credit card number:
   Credit card numbers follow a certain pattern. The number must have between 13 and 16 digits. The 
