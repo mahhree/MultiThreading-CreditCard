@@ -17,14 +17,14 @@ Using Luhn's Algorithm:
      number, add up the two digits to get a single-digit number.
 
      4388576018402626
-     2 * 2 = 4
-     2 * 2 = 4
-     4 * 2 = 8
-     1 * 2 = 2
-     6 * 2 = 12 (1 + 2 = 3)
-     5 * 2 = 10 (1 + 0 = 1)
-     8 * 2 = 16 (1 + 6 = 7)
-     4 * 2 = 8
+     -2 * 2 = 4
+     -2 * 2 = 4
+     -4 * 2 = 8
+     -1 * 2 = 2
+     -6 * 2 = 12 (1 + 2 = 3)
+     -5 * 2 = 10 (1 + 0 = 1)
+     -8 * 2 = 16 (1 + 6 = 7)
+     -4 * 2 = 8
   
   2. Now add all single-digit numbers from Step 1. 4 + 4 + 8 + 2 + 3 + 1 + 7 + 8 = 37
 
